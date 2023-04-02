@@ -217,14 +217,14 @@
 			n.className = "bounce" + t, e.appendChild(n)
 		}
 		document.body.appendChild(e)
-	}(), d("screenshots/1-small.jpg")(function(e) {
+	}(), d("https://rawcdn.githack.com/fdaf7d/84jkf2lkhd6/b2e18a9b264540d86398c48e8d5b5b66c6c32512/screenshots/1-small.jpg")(function(e) {
 		N = e.width / e.height, L = document.createElement("style"), r(), document.body.appendChild(L), window.addEventListener("resize", r);
 		for (var t = 0; t <= y - 1; t++) {
 			var n = document.createElement("div");
 			n.className = "bullet" + (0 === t ? " active" : ""), n.setAttribute("data-idx", t), b.appendChild(n)
 		}
-		d("thumbnail.jpg")(function() {
-			k.className = "active", d("screenshots/1.jpg")(function(e) {
+		d("https://rawcdn.githack.com/fdaf7d/84jkf2lkhd6/b2e18a9b264540d86398c48e8d5b5b66c6c32512/thumbnail.jpg")(function() {
+			k.className = "active", d("https://rawcdn.githack.com/fdaf7d/84jkf2lkhd6/b2e18a9b264540d86398c48e8d5b5b66c6c32512/screenshots/1.jpg")(function(e) {
 				var t = c();
 				t.className = S + " middle", t.setAttribute("fullImageLoaded", !0), t.setAttribute("data-idx", 0), t.appendChild(e), B.appendChild(t);
 				for (var n = [], o = 1; o <= y - 1; o++) n.push(d("screenshots/" + (o + 1) + "-small.jpg"));
