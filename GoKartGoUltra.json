@@ -1,0 +1,12 @@
+{
+"companyName": "XformGames",
+"productName": "GoKartGoUltra",
+"dataUrl": "https://rawcdn.githack.com/cakegamesa/unity_s3/4bfef2d31084e1c988564068e79c70c3f0f6cc26/GoKartGoUltra.data.unityweb",
+"wasmCodeUrl": "https://rawcdn.githack.com/cakegamesa/unity_s3/4bfef2d31084e1c988564068e79c70c3f0f6cc26/GoKartGoUltra.wasm.code.wasm",
+"wasmFrameworkUrl": "GoKartGoUltra.wasm.framework.js?v=1",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
